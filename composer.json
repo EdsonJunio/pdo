@@ -1,0 +1,15 @@
+{
+    "name": "edson/pdo",
+    "autoload": {
+        "psr-4": {
+            "Edson\\Pdo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "EdsonJunio",
+            "email": "69820618+EdsonJunio@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
